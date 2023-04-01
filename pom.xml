@@ -8,6 +8,7 @@
         <module>chatgpt-bot-application</module>
         <module>chatgpt-bot-interfaces</module>
         <module>chatgpt-bot-infrastructure</module>
+        <module>chatgpt-bot-common</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
