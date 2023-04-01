@@ -1,2 +1,6 @@
 server:
   port: 8080
+
+chatgpt-bot:
+  groupId: 88885824544282
+  cookie: zsxq_access_token=F5397DF1-C3EE-6C3F-AC8D-EAC10A129251_D33A2C1C6CFFA786; zsxqsessionid=e5c22c7b3d95e00daa5a5e3f909d9230; abtest_env=product
